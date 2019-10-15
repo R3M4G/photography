@@ -1,5 +1,5 @@
 # Base configs
-baseurl: ""
+baseurl: "https://r3m4g.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-115054478-2"
@@ -15,7 +15,7 @@ footer: "&copy; Astitva Nikose 2019"
  name: "Hi I'm Astitva, How you doin?"
  bio: "Techy guy who's also into photography."
  github: "<a href="https://github.com/r3m4g">R3M4G on github</a>"
-web_design: "AN"
+web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/astitva.nikose"
   twitter: "https://www.twitter.com/astitva1024"
