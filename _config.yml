@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "/photography"
+baseurl: "z3k3.me/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-115054478-2"
